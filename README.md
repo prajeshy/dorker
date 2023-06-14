@@ -11,9 +11,8 @@ Dorker is a command-line tool that allows you to perform Google dork searches ea
 ## Installation
 
 1. Clone the repository:
-
    ```shell
-   git clone https://github.com/your-username/dorker.git
+   git clone https://github.com/prajeshy/dorker
    ```
 2. Navigate to the project directory
 
